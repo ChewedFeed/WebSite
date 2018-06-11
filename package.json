@@ -1,0 +1,9 @@
+{
+  "name": "chewedfeed",
+  "version": "0.0.1",
+  "description": "Chewed Feed Website",
+  "main": "index.js",
+  "repository": "git@github.com:ChewedFeed/WebSite.git",
+  "author": "keloran <keloran@chewedfeed.com>",
+  "license": "MIT"
+}
