@@ -209,4 +209,6 @@ node_modules
 .env
 
 # AWS
-aws.json
+aws.jsondist/
+
+dist/
